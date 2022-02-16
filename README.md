@@ -5,7 +5,4 @@
 - 📫 How to reach me ...
 
 <!---
-Gunawanaditya/Gunawanaditya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->https://durori.xyz/api/full/?fitur=full50&token=jOQE6LxbgeXahZ9&nik=nik_yang_dicekhttps://durori.xyz/api/full/?fitur=full50&token=jOQE6LxbgeXahZ9&nik=nik_yang_dicek
-8101155808950003
+Gunawanaditya/Gunawanaditya is a ✨ special ✨ repository because its `READM
